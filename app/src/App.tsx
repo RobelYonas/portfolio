@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { SpeedInsights } from '@vercel/speed-insights/react';
 
 // Hooks
 import { useLenis } from '@/hooks/useLenis';
@@ -65,9 +64,6 @@ function App() {
 
       {/* Footer */}
       <Footer />
-
-      {/* Speed Insights */}
-      <SpeedInsights />
     </div>
   );
 }
