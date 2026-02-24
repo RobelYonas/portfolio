@@ -1,6 +1,6 @@
 # Robel Yonas - Portfolio
 
-A modern, interactive personal portfolio website built with React, TypeScript, and cutting-edge web technologies. Features smooth animations, custom cursor effects, and a responsive design.
+Here is my portfolio website with modern look, responsive desgin as well as smmoth animations
 
 ![Portfolio Preview](app/public/profile-photo.png)
 
