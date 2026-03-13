@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import { Analytics } from "@vercel/analytics/next"
 
 // Hooks
 import { useLenis } from '@/hooks/useLenis';
@@ -64,6 +65,8 @@ function App() {
 
       {/* Footer */}
       <Footer />
+
+      <Analytics />
     </div>
   );
 }
