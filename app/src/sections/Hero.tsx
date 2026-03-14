@@ -185,7 +185,7 @@ const Hero: React.FC = () => {
           </MagneticButton>
 
           <MagneticButton
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/robel-yonas/"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 border border-offwhite/30 text-offwhite font-body font-medium rounded-full hover:border-primary hover:text-primary transition-colors duration-300"
