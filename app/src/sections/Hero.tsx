@@ -199,7 +199,7 @@ const Hero: React.FC = () => {
         {/* Scroll Indicator */}
         <div
           ref={scrollIndicatorRef}
-          className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center cursor-pointer"
+          className="absolute bottom-2 left-1/2 -translate-x-1/2 flex flex-col items-center cursor-pointer"
           onClick={scrollToAbout}
         >
           <span className="text-xs text-offwhite-muted mb-2 font-body tracking-widest uppercase">
