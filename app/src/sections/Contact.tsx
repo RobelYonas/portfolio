@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { Mail, Phone, Github, Linkedin, MapPin, Download } from 'lucide-react';
+import { Mail, Github, Linkedin, MapPin, Download } from 'lucide-react';
 import MagneticButton from '@/components/MagneticButton';
 
 gsap.registerPlugin(ScrollTrigger);
