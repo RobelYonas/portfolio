@@ -14,12 +14,6 @@ const contactInfo = [
     href: 'mailto:robel4872@gmail.com',
   },
   {
-    icon: Phone,
-    label: 'Phone',
-    value: '+46 72 240 53 72',
-    href: 'tel:+46722405372',
-  },
-  {
     icon: Github,
     label: 'GitHub',
     value: 'github.com/RobelYonas',
